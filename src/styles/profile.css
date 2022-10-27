@@ -1,0 +1,17 @@
+section.profile-section {
+  border: 2px solid red;
+  margin-top: 4em;
+}
+section.profile-section img#profile__img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  clip-path: none;
+}
+section.profile-section h4#twitter {
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+  text-rendering: geometricPrecision;
+}
+
+/*# sourceMappingURL=profile.css.map */
