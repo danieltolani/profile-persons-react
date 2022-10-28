@@ -1,0 +1,9 @@
+section.social-section{
+    // border: 2px solid red;
+    align-items: center;
+    padding: 1.5em 0;
+
+    &>svg:not(:first-child){
+        margin-left: 1.5em;
+    }
+}

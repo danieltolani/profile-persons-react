@@ -1,0 +1,9 @@
+section.social-section {
+  align-items: center;
+  padding: 1.5em 0;
+}
+section.social-section > svg:not(:first-child) {
+  margin-left: 1.5em;
+}
+
+/*# sourceMappingURL=socials.css.map */

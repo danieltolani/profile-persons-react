@@ -4,7 +4,7 @@ import '../styles/links.css'
 const Links = (props) => {
     return (
         <section className="links-section">
-            <button>{props.buttonName}</button>
+            <button className="links-button">{props.buttonName}</button>
         </section>
     )
 }
