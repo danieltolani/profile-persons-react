@@ -6,7 +6,7 @@ section.footer-section {
   padding-bottom: 3em;
   position: sticky;
   top: 100vh;
-  border-top: 1px solid #EAECF0;
+  border-top: 1px solid #eaecf0;
 }
 
 @media screen and (max-width: 780px) {

@@ -8,12 +8,18 @@ a.links-button {
   cursor: pointer;
   display: block;
   text-decoration: none;
+  border-radius: 8px;
 }
 
 @media (hover: hover) and (pointer: fine) {
   a.links-button:hover {
     background-color: #abaeba;
     color: white;
+  }
+}
+@media screen and (max-width: 780px) {
+  a.links-button {
+    font-size: 0.875rem;
   }
 }
 

@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/profile.scss"],"names":[],"mappings":"AAAA;EAGI;EACA;;AAEA;EACI;EACA;EACA;EACA;;AAGJ;EACI;EACA;EACA","file":"profile.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/profile.scss"],"names":[],"mappings":"AAAA;EAGE;EACA;;AAEA;EACE;EACA;EACA;EACA;;AAGF;EACE;EACA;EACA;;;AAIJ;EACE;IACE;;EAEA;IACE","file":"profile.css"}

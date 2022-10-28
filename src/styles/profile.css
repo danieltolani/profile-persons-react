@@ -14,4 +14,13 @@ section.profile-section h4#twitter {
   text-rendering: geometricPrecision;
 }
 
+@media screen and (max-width: 780px) {
+  section.profile-section {
+    margin-bottom: 2rem;
+  }
+  section.profile-section h4#twitter {
+    font-size: 1.125rem;
+  }
+}
+
 /*# sourceMappingURL=profile.css.map */

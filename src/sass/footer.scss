@@ -1,25 +1,25 @@
-section.footer-section{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 2.25em;
-    padding-bottom: 3em;
-    position: sticky;
-    top: 100vh;
-    border-top: 1px solid #EAECF0;
+section.footer-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 2.25em;
+  padding-bottom: 3em;
+  position: sticky;
+  top: 100vh;
+  border-top: 1px solid #eaecf0;
 }
 
 @media screen and (max-width: 780px) {
-    section.footer-section{
-        // border: 2px solid red;
-        flex-direction: column;
+  section.footer-section {
+    // border: 2px solid red;
+    flex-direction: column;
 
-        & > svg:not(:last-child) {
-            margin-bottom: 1.25em;
-        }
+    & > svg:not(:last-child) {
+      margin-bottom: 1.25em;
+    }
 
-        & > svg:last-child {
-            margin-top: 1.25em;
-        }
+    & > svg:last-child {
+      margin-top: 1.25em;
     }
   }
+}
