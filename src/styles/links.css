@@ -10,4 +10,11 @@ a.links-button {
   text-decoration: none;
 }
 
+@media (hover: hover) and (pointer: fine) {
+  a.links-button:hover {
+    background-color: #abaeba;
+    color: white;
+  }
+}
+
 /*# sourceMappingURL=links.css.map */

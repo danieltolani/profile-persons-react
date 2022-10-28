@@ -11,3 +11,11 @@ a.links-button{
     display: block;
     text-decoration: none;
 }
+
+@media (hover:hover) and (pointer:fine){
+
+a.links-button:hover{
+    background-color: #abaeba;
+    color: white;
+}
+  }
