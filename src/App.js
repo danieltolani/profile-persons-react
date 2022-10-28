@@ -13,12 +13,12 @@ function App() {
         img="https://i.imgur.com/OW6krjH.jpeg"
       />
 
-      <Links buttonName="Twitter Link" />
-      <Links id="btn__zuri" buttonName="Zuri Team" />
-      <Links id="books" buttonName="Zuri Books" />
-      <Links id="book__python" buttonName="Python Books" />
-      <Links id="pitch" buttonName="Background Check for Coders" />
-      <Links id="book__design" buttonName="Design Books" />
+      <Links linkAddress='https://twitter.com/daniel_tolani_' id="btn__twit" linkName="Twitter Link" />
+      <Links linkAddress='https://training.zuri.team' id="btn__zuri" linkName="Zuri Team" />
+      <Links linkAddress='http://books.zuri.team'  id="books" linkName="Zuri Books" />
+      <Links linkAddress='https://books.zuri.team/python-for-beginners?ref_id=<TDo8>' id="book__python" linkName="Python Books" />
+      <Links linkAddress='https://background.zuri.team' id="pitch" linkName="Background Check for Coders" />
+      <Links linkAddress='http://books.zuri.team/design-rules' id="book__design" linkName="Design Books" />
 
     <Socials />
     <Footer footerText="HNG Internship 9 Frontend Task" />
